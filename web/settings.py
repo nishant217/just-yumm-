@@ -28,8 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['*','.vercel.app','just-yumm-1.onrender.com']
 CSRF_TRUSTED_ORIGINS = [
     'https://just-yumm-1.onrender.com',
+    'https://just-yumm-2.onrender.com'
 ]
-
 # Application definition
 
 INSTALLED_APPS = [
