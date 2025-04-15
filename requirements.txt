@@ -1,0 +1,8 @@
+Django>=3.2,<5.0             # Web framework
+google-generativeai>=0.3.2  # Gemini API
+gunicorn>=20.1.0            # WSGI server for production
+psycopg2-binary>=2.9.5      # PostgreSQL adapter
+django-environ>=0.10.0      # Environment variable management
+requests>=2.31.0            # For external API calls
+whitenoise>=6.5.0           # Serve static files (optional but useful)
+Pillow>=10.0.0              # Image processing support in Django
