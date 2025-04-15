@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-^!oujxy5z(eawqr#h7q@ru^9zu)v14%=x1g0qdpgf$(t%ydp$_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app','just-yumm-1.onrender.com']
+ALLOWED_HOSTS = ['*','.vercel.app','just-yumm-1.onrender.com']
 CSRF_TRUSTED_ORIGINS = [
     'https://just-yumm-1.onrender.com',
 ]
