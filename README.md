@@ -109,6 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [Nishant Sharma](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/just-yum](https://github.com/yourusername/just-yum)
+Project Link: [https://just-yumm-2.onrender.com](https://just-yumm-2.onrender.com)
