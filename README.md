@@ -2,6 +2,8 @@
 
 Just Yumm! is a web-based recipe assistant that helps users discover, create, and explore recipes using AI technology. The platform provides personalized recipe recommendations, dietary planning, and cooking guidance.
 
+Project Link: [https://just-yumm-2.onrender.com](https://just-yumm-2.onrender.com)
+
 ## Features
 
 - **AI Recipe Chatbot**: Get instant recipe suggestions and cooking instructions
